@@ -1,0 +1,7 @@
+{
+  "vetur.format.defaultFormatter.ts": "prettier",
+  "editor.formatOnSave": true,
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true
+  }
+}
